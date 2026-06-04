@@ -1,0 +1,55 @@
+{
+  "@@locale": "moore",
+
+  "appName": "SIRA",
+  "appTagline": "Suivi · Information · Recommandation · Autonomie",
+
+  "continuer": "Tũm",
+  "suivant": "Tũm",
+  "precedent": "Kẽn",
+  "commencer": "Sõng",
+  "terminer": "Pidsem",
+  "annuler": "Bas",
+  "confirmer": "Nod",
+  "retour": "Kẽn",
+  "passer": "Loog",
+  "reessayer": "Maan",
+  "fermer": "Kẽemd",
+  "oui": "Yõog",
+  "non": "Ayo",
+  "enregistrer": "Maane",
+  "appeler": "Boolo",
+  "itineraire": "Zĩngo",
+
+  "onboarding1Titre": "Y tõog kõtgã bee bãmb",
+  "onboarding1Sous": "Compte da wobe. Inscription da wobe.\nFofo dãmb bee fo telefõn pʋgẽ.",
+  "onboarding2Titre": "Bãng ninsaal ning sã n yãtẽ foom",
+  "onboarding2Sous": "Sõr ne botore la wakat bilf.",
+  "onboarding3Titre": "Fo koɛɛg pʋgẽ",
+  "onboarding3Sous": "Faransi, Mooré bɩ Jula.",
+
+  "choisirLangue": "Tũmse fo koɛɛga",
+  "bienvenue": "Welkom",
+  "choisirEspace": "Tũmse fo zĩiga",
+
+  "espacesFemme": "Pog Zĩiga",
+  "espacesAgent": "Sãnde Zĩiga",
+  "espacesGestionnaire": "Naab Zĩiga",
+  "connexionRequise": "Kẽnd tõog",
+
+  "loginBouton": "Kẽnd",
+  "loginErreur": "Identifiant bɩ PIN da zemsda",
+
+  "stockOk": "Beeme",
+  "stockFaible": "Bilf",
+  "stockRupture": "Baasg",
+
+  "erreurReseau": "Kõngo ka bee. Gese fo reseau.",
+  "chargement": "Yɩɩbo...",
+  "aucunResultat": "Bũmb da be",
+
+  "avertissementCalendrier": "Gese: Almanac ninsaale yaa 25% la ka nafe. Ka yiibu sãnde ninsaale.",
+
+  "oui": "Yõog",
+  "non": "Ayo"
+}

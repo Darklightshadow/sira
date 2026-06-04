@@ -1,0 +1,55 @@
+{
+  "@@locale": "dioula",
+
+  "appName": "SIRA",
+  "appTagline": "Suivi · Information · Recommandation · Autonomie",
+
+  "continuer": "Taa ɲɛ",
+  "suivant": "Ntɛ",
+  "precedent": "Kɔ",
+  "commencer": "Daminɛ",
+  "terminer": "Laban",
+  "annuler": "A bɔ",
+  "confirmer": "Sɛbɛn",
+  "retour": "Kɔ",
+  "passer": "Tɛmɛ",
+  "reessayer": "Daminɛ tugu",
+  "fermer": "A datugu",
+  "oui": "Ɔwɔ",
+  "non": "Ayi",
+  "enregistrer": "A mara",
+  "appeler": "Weele",
+  "itineraire": "Sira",
+
+  "onboarding1Titre": "I ka gundo bɛ bɔgɔ la",
+  "onboarding1Sous": "Compte tɛ kɛcogo. Inscription tɛ kɛcogo.\nI ka kunnafoni bɛ to i telefone kɔnɔ.",
+  "onboarding2Titre": "Sɔrɔ hali min ka fɛ i ye",
+  "onboarding2Sous": "Ɲininkali nɔgɔman,\nladilikan minɛ i kɔrɔ.",
+  "onboarding3Titre": "I ka kan na",
+  "onboarding3Sous": "Faransikan, Moorékan wala Julakan.",
+
+  "choisirLangue": "I ka kan sugandi",
+  "bienvenue": "I ni ce",
+  "choisirEspace": "Yɔrɔ sugandi",
+
+  "espacesFemme": "Musow Yɔrɔ",
+  "espacesAgent": "Baarakɛla Yɔrɔ",
+  "espacesGestionnaire": "Ɲɛmɔgɔ Yɔrɔ",
+  "connexionRequise": "Segin kɛcogo",
+
+  "loginBouton": "Segin",
+  "loginErreur": "Identifiant wala PIN tɛ ɲɛ",
+
+  "stockOk": "Bɛ yen",
+  "stockFaible": "Dɔgɔman",
+  "stockRupture": "Mana bɛ",
+
+  "erreurReseau": "Kɔlɔsili tɛ. I ka reseau lajɛ.",
+  "chargement": "Kɔnɔna...",
+  "aucunResultat": "Fɛn tɛ sɔrɔ",
+
+  "avertissementCalendrier": "Lasigiden: Kalandan ɲɛfɔli b'a fɔ 25% kosɔn ka kɛ. A tɛ baarakɛli falen ye.",
+
+  "oui": "Ɔwɔ",
+  "non": "Ayi"
+}

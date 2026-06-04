@@ -1,0 +1,82 @@
+name: sira_mobile
+description: SIRA - Suivi, Information, Recommandation, Autonomie. Application d'aide à la décision contraceptive adaptée au Burkina Faso.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Navigation
+  go_router: ^14.0.0
+
+  # Requêtes HTTP
+  dio: ^5.4.0
+
+  # Base de données locale (offline-first)
+  sqflite: ^2.3.0
+  path: ^1.9.0
+
+  # Préférences simples (langue, token JWT)
+  shared_preferences: ^2.2.0
+
+  # Cartographie OpenStreetMap
+  flutter_map: ^7.0.0
+  latlong2: ^0.9.0
+
+  # Géolocalisation GPS
+  geolocator: ^12.0.0
+
+  # Graphiques (dashboard gestionnaire)
+  fl_chart: ^0.68.0
+
+  # Génération PDF (rapport gestionnaire)
+  pdf: ^3.10.0
+  printing: ^5.12.0
+
+  # Partage de fichiers (rapport PDF)
+  share_plus: ^9.0.0
+
+  # Notifications push locales
+  flutter_local_notifications: ^17.0.0
+
+  # Décodage token JWT
+  jwt_decoder: ^2.0.0
+
+  # State management
+  flutter_riverpod: ^2.5.0
+
+  # Vérification connectivité réseau
+  connectivity_plus: ^6.0.0
+
+  # Permissions (GPS, stockage)
+  permission_handler: ^11.3.0
+
+  # Internationalisation
+  intl: ^0.20.2
+
+  google_fonts: ^6.2.0
+
+  flutter_localizations:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  mockito: ^5.4.0
+  build_runner: ^2.4.0
+  intl_utils: ^2.8.0
+
+flutter:
+  uses-material-design: true
+  generate: true
+
+flutter_intl:
+  enabled: true
+  arb_dir: lib/l10n
+  output_dir: lib/core/l10n/generated
+  main_locale: fr
